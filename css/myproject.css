@@ -1,0 +1,13 @@
+body{
+	background-color:#333;
+}
+.footer{
+	height: auto;
+	width: 100%;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
